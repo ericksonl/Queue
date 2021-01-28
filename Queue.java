@@ -3,7 +3,6 @@ import Stack.Node;
 /* Author: Liam Erickson
  * File: Queue.java
  * Date: May 28, 2020
- * Class: CS258 - Lab 6 Part 2
  */
 
 public class Queue<T> {
